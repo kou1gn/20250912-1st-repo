@@ -1,11 +1,28 @@
-body {
-  margin: 0;
+html {
   font-family: system-ui, sans-serif;
-  color: white;
-  background-color: #444444;
+  background-color: #ffffff;
 }
+
+/* I HAVE NO IDEA WHAT IM DOING */
 
 h1 {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 50px;
+  color: #000000; text-align: center;
+}
+
+.box {background-color: rgb(255, 255, 255);
+  padding: 10px 0}
+
+.colors {
+   height: 50px; width: 50px; border-radius: 50%; margin: center; margin-left: 10px
+}
+
+.red {background-color: red;
+}
+
+.blue {background-color: blue; 
+}
+
+.green {background-color: green;
 }
